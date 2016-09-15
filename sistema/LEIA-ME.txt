@@ -1,0 +1,6 @@
+A Pasta "HOME" possui o index.php
+Pasta "FUNC" está a conexão com o banco mysql.
+
+Não consegui deixar a aplicação rodando na web, usei o wamp para testar a conexão no localhost e estava OK, tentei subir pra web utilizando o wamp mas não obtive exito.
+Por este motivo estou adicionando somente o código no github.
+
